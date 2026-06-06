@@ -23,7 +23,8 @@ This repository is structured sequentially to ensure a solid foundation before t
 - [x] **Day 01:** Output and Variables (`printf`, format specifiers, data types)
 - [x] **Day 02:** User Input (`scanf`, address-of operator, compound assignment)
 - [x] **Day 03:** Control Flow (`if/else`, relational & logical operators)
-- [ ] **Day 04:** *Upcoming...*
+- [x] **Day 04:** Complex Logic & Menus (`&&`/`||` grouping, `switch`, `case`)
+- [ ] **Day 05:** *Upcoming...*
 
 ---
 
