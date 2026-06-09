@@ -26,7 +26,8 @@ This repository is structured sequentially to ensure a solid foundation before t
 - [x] **Day 04:** Complex Logic & Menus (`&&`/`||` grouping, `switch`, `case`)
 - [x] **Day 05:** Loops & Iteration (`for`, `while`, `do-while`, math with loops)
 - [x] **Day 06:** 1D Arrays (Indexing, Traversal, Linear Search, Swapping)
-- [ ] **Day 07:** *Upcoming...*
+- [x] **Day 07:** Strings (Character Arrays, Null Terminator, `fgets`, ASCII Math)
+- [ ] **Day 08:** *Upcoming...*
 
 ---
 
