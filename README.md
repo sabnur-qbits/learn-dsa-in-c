@@ -29,7 +29,8 @@ This repository is structured sequentially to ensure a solid foundation before t
 - [x] **Day 07:** Strings (Character Arrays, Null Terminator, `fgets`, ASCII Math)
 
 ### Week 02: Functions & Pointers
-- [ ] **Day 08:** *Upcoming...*
+- [x] **Day 08:** Modular Code with Functions (Declaration, Parameters, Return Values, Arrays as Params)
+- [ ] **Day 09:** *Upcoming...*
 
 ---
 
