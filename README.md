@@ -30,7 +30,8 @@ This repository is structured sequentially to ensure a solid foundation before t
 
 ### Week 02: Functions & Pointers
 - [x] **Day 08:** Modular Code with Functions (Declaration, Parameters, Return Values, Arrays as Params)
-- [ ] **Day 09:** *Upcoming...*
+- [x] **Day 09:** Introduction to Pointers (Memory Addresses, Dereferencing, Pass by Reference)
+- [ ] **Day 10:** *Upcoming...*
 
 ---
 
